@@ -1,4 +1,4 @@
-# World_cup2023_DataAnalysis_PowerBi
+# World_cup2023_DataAnalysis_With_PowerBi
 
 verview
 This repository contains a Power BI project for analyzing data related to the 2023 World Cup. The analysis aims to provide insights into various aspects of the tournament, including team performance, player statistics, match outcomes, and more.
